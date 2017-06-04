@@ -1,0 +1,870 @@
+{
+    "TestData": [
+        {
+            "url": "/WuJi/GetPasserBy",
+            "desc": "获取过客列表",
+            "mock": true,
+            "res": {
+                "code": 200,
+                "msg": "查询成功",
+                "data":[
+                    {
+                        "userId": 533519,
+                        "praiseCount": 3,
+                        "nickName": "小茹",
+                        "diaryId": 7232274,
+                        "createDate": "20170124130800",
+                        "passbyDate": "20170122130853",
+                        "userBGUrl": "http://bpic.588ku.com/back_pic/04/81/74/4558c65397ef934.jpg",
+                        "content": "而我不知道，除此之外（音乐），人类还能拥有什么更好的天赋，因为从三个音阶（三和弦）中他所构造出的，不是第四个音阶，而是星辰。",
+                        "avatarUrl": "http://user.xiejianji.com/17040812515250721238A845412A.jpg",
+                        "isPraised": 0,
+                        "isCollection": 0,
+                        "browseCount": 11
+                    },
+                    {
+                        "userId": 581628,
+                        "praiseCount": 0,
+                        "nickName": "素心",
+                        "diaryId": 7259396,
+                        "createDate": "20170123224532",
+                        "passbyDate": "20170123224720",
+                        "userBGUrl": "http://bpic.588ku.com/back_pic/04/65/10/45587729d332e3f.jpg",
+                        "content": "最重要的人 往往不是你最惦记的人！",
+                        "avatarUrl": "http://user.xiejianji.com/17012322225556581628A388736A.jpg",
+                        "isPraised": 0,
+                        "isCollection": 0,
+                        "browseCount": 0
+                    },
+                    {
+                        "userId": 559695,
+                        "praiseCount": 0,
+                        "nickName": "向阳",
+                        "diaryId": 7259381,
+                        "createDate": "20170123224517",
+                        "passbyDate": "20170123224658",
+                        "userBGUrl": "http://pic.pptbz.com/pptpic/201206/2012060823334584.jpg",
+                        "content": "时代在变化 思想绝对要跟上",
+                        "avatarUrl": "http://user.xiejianji.com/17010618420076559695A143888A.jpg",
+                        "isPraised": 0,
+                        "isCollection": 0,
+                        "browseCount": 0
+                    },
+                    {
+                        "userId": 382826,
+                        "praiseCount": 0,
+                        "nickName": "十三",
+                        "diaryId": 7259320,
+                        "createDate": "20170123224412",
+                        "passbyDate": "20170123224455",
+                        "userBGUrl": "http://bpic.588ku.com/back_pic/04/77/82/1658afeedc812b6.jpg",
+                        "content": "不喜欢，行了吧。以前还好奇，现在不感兴趣了。我不想骗你。。。。别忘了",
+                        "avatarUrl": "http://api.xiejianji.com/UpFiles/InitImages/userphotoInit.jpg",
+                        "isPraised": 0,
+                        "isCollection": 0,
+                        "browseCount": 0
+                    },
+                    {
+                        "userId": 581134,
+                        "praiseCount": 2,
+                        "nickName": "李霄",
+                        "diaryId": 7259328,
+                        "createDate": "20170123224410",
+                        "passbyDate": "20170123224507",
+                        "userBGUrl": "http://bpic.588ku.com/back_pic/04/77/82/3458afef7e57799.jpg",
+                        "content": "我现在要做的两件事：一是变得优秀。二是等你 ！我会记住这句话的！",
+                        "avatarUrl": "http://user.xiejianji.com/17012317103815581134A899829A.jpg",
+                        "isPraised": 0,
+                        "isCollection": 0,
+                        "browseCount": 0
+                    },
+                    {
+                        "userId": 365038,
+                        "praiseCount": 0,
+                        "nickName": "小七",
+                        "diaryId": 7259303,
+                        "createDate": "20170123224138",
+                        "passbyDate": "20170123224412",
+                        "userBGUrl": "http://bpic.588ku.com/back_pic/04/78/66/5458b3cb3985e30.jpg",
+                        "content": "相似的事情，相似的话，相似的场景，让我又再一次的唤起当时那痛彻心扉的回忆，不敢想，不敢看，但还是要面对，，，好痛，好痛",
+                        "avatarUrl": "http://user.xiejianji.com/16120123345177365038A631830A.jpg",
+                        "isPraised": 0,
+                        "isCollection": 0,
+                        "browseCount": 3
+                    },
+                    {
+                        "userId": 156973,
+                        "praiseCount": 1,
+                        "nickName": "ws",
+                        "diaryId": 7259116,
+                        "createDate": "20170123223707",
+                        "passbyDate": "20170123223732",
+                        "userBGUrl": "http://bpic.588ku.com/back_pic/04/82/34/0258ca315d1e62e.jpg",
+                        "content": "我只是想在你这寻求一点点的安慰 没想到 是我的错?? 唉",
+                        "avatarUrl": "http://user.xiejianji.com/16121410112674156973A75701A.jpg",
+                        "isPraised": 0,
+                        "isCollection": 0,
+                        "browseCount": 5
+                    },
+                    {
+                        "userId": 576399,
+                        "praiseCount": 2,
+                        "nickName": "silence",
+                        "diaryId": 7259093,
+                        "createDate": "20170123223639",
+                        "passbyDate": "20170123223639",
+                        "userBGUrl": "http://bpic.588ku.com/back_pic/00/04/13/75/6d8e5a034e81ea1a75bc09f69101f543.jpg",
+                        "content": "差点就又去打扰他了，现在他很幸福，不需要我",
+                        "avatarUrl": "http://user.xiejianji.com/20170119091453576399A926087.jpeg",
+                        "isPraised": 0,
+                        "isCollection": 0,
+                        "browseCount": 5
+                    },
+                    {
+                        "userId": 577818,
+                        "praiseCount": 0,
+                        "nickName": "姑娘",
+                        "diaryId": 7259081,
+                        "createDate": "20170123223400",
+                        "passbyDate": "20170123223618",
+                        "userBGUrl": "http://bpic.588ku.com/back_pic/00/04/13/75/03ce9c702432b0457d3d073dffb51241.jpg",
+                        "content": "就在刚刚\n辉姑娘跟我说\n分手了\n也许吧整个家人的反对看起来真的失落\n我也知道她心里一定不好受\n坚强点\n相信我\n你值得更好的\n我爱你",
+                        "avatarUrl": "http://user.xiejianji.com/20170120150148577818A402794.jpg",
+                        "isPraised": 0,
+                        "isCollection": 0,
+                        "browseCount": 3
+                    }
+                ]
+            }
+        },
+
+        {
+            "url": "/WuJi/GetCategoryList",
+            "desc": "获取我的分类",
+            "mock": true,
+            "res": {
+                "code": 200,
+                "msg": "查询成功",
+                "data":[
+                    {
+                        "categoryId": 0,
+                        "userId": 533519,
+                        "name": "未分类",
+                        "colorHex": "",
+                        "diaryCount": 9
+                    },
+                    {
+                        "categoryId": 1,
+                        "userId": 533519,
+                        "name": "日常记事",
+                        "colorHex": "00CCBB",
+                        "diaryCount": 4
+                    },
+                    {
+                        "categoryId": 2,
+                        "userId": 533519,
+                        "name": "记账",
+                        "colorHex": "4AD453",
+                        "diaryCount": 2
+                    },
+                    {
+                        "categoryId": 3,
+                        "userId": 533519,
+                        "name": "与男友的那些事",
+                        "colorHex": "C285FF",
+                        "diaryCount": 3
+                    },
+                    {
+                        "categoryId": 4,
+                        "userId": 533519,
+                        "name": "旅游计划",
+                        "colorHex": "90B44B",
+                        "diaryCount": 2
+                    }
+                ]
+            }
+        },
+
+        {
+            "url": "/WuJi/GetMyDiarys",
+            "desc": "获取我的日记列表",
+            "mock": true,
+            "res": {
+                "code": 200,
+                "msg": "查询成功",
+                "data":[
+                    {
+                        "id": 6981795,
+                        "content": "2017年，买房买车",
+                        "createDate": "20170109105622",
+                        "weekday": 2,
+                        "weather": 0,
+                        "address": "广东省深圳市福田区",
+                        "categoryId": 0,
+                        "isPassby": 0,
+                        "categoryName": "未分类",
+                        "colorHex": "",
+                        "MediaChildren": [ ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 5754982,
+                        "content": "这也是测试",
+                        "createDate": "20161029153409",
+                        "weekday": 7,
+                        "weather": 1,
+                        "address": "广东省深圳市南山区",
+                        "categoryId": 1,
+                        "isPassby": 0,
+                        "categoryName": "日常记事",
+                        "colorHex": "00CCBB",
+                        "MediaChildren": [
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16111716212141315A595543IMG_0567.PNG",
+                                "videoThumbnail": "",
+                                "id": 3945804,
+                                "diaryId": 5754982,
+                                "mediaType": 1,
+                                "url": "16111716212141315A595543IMG_0567.PNG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16111716242391315A840695IMG_0523.PNG",
+                                "videoThumbnail": "",
+                                "id": 3945822,
+                                "diaryId": 5754982,
+                                "mediaType": 1,
+                                "url": "16111716242391315A840695IMG_0523.PNG",
+                                "qiniuUrl": 1
+                            }
+                        ],
+                        "title": "",
+                        "fontType": ""
+                    },
+
+                    {
+                        "id": 5559423,
+                        "content": "西游降魔-吴更新篇",
+                        "createDate": "20161016200657",
+                        "weekday": 1,
+                        "weather": 2,
+                        "address": "广东省深圳市南山区",
+                        "categoryId": 2,
+                        "isPassby": 0,
+                        "categoryName": "记账",
+                        "colorHex": "4AD453",
+                        "MediaChildren": [
+                            {
+                                "Qnurl": "http://video.xiejianji.com/45e5f2a723d59d2c18e7d45a9bae751f.mp4?e=1491905393&token=vl82-w1ZItdvucyb0gejjhplWjZSkxHh3nwdrC29:hIq67pQrz11XyW6066VucDxOHDg=",
+                                "videoThumbnail": "http://video.xiejianji.com/45e5f2a723d59d2c18e7d45a9bae751f.mp4?vframe/jpg/offset/1/w/480/h/480&e=1500541793&token=vl82-w1ZItdvucyb0gejjhplWjZSkxHh3nwdrC29:-bXqT7s013rSMq9mUtua0kHFzDo=",
+                                "id": 3611121,
+                                "diaryId": 5559423,
+                                "mediaType": 2,
+                                "url": "dca6b50a7456dd0602e7b3803f392e88.mp4",
+                                "qiniuUrl": 1
+                            }
+                        ],
+                        "title": "",
+                        "fontType": ""
+                    },
+
+                    {
+                        "id": 5488061,
+                        "content": "垃圾,愛你喲。😘😘😘😘😘😘",
+                        "createDate": "20161011190600",
+                        "weekday": 5,
+                        "weather": 3,
+                        "address": "中国广东省深圳市南山区银河路106",
+                        "categoryId": 3,
+                        "isPassby": 0,
+                        "categoryName": "与男友的那些事",
+                        "colorHex": "C285FF",
+                        "MediaChildren": [ ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 5440927,
+                        "content": "与男友的那些事...",
+                        "createDate": "20161008200135",
+                        "weekday": 5,
+                        "weather": 4,
+                        "address": "中国广东省深圳市南山区银河路106",
+                        "categoryId": 3,
+                        "isPassby": 0,
+                        "categoryName": "与男友的那些事",
+                        "colorHex": "C285FF",
+                        "MediaChildren": [ ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 5222038,
+                        "content": "哈",
+                        "createDate": "20160923202716",
+                        "weekday": 6,
+                        "weather": 5,
+                        "address": "广东省深圳市南山区",
+                        "categoryId": 0,
+                        "isPassby": 0,
+                        "categoryName": "未分类",
+                        "colorHex": "",
+                        "MediaChildren": [ ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 5205672,
+                        "content": "测试多个图片啦！！！！！",
+                        "createDate": "20160922204408",
+                        "weekday": 5,
+                        "weather": 6,
+                        "address": "广东省深圳市南山区",
+                        "categoryId": 4,
+                        "isPassby": 0,
+                        "categoryName": "旅游计划",
+                        "colorHex": "90B44B",
+                        "MediaChildren": [
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444326315A710760IMG_0448.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352437,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444326315A710760IMG_0448.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444338315A216926IMG_0449.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352438,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444338315A216926IMG_0449.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444352315A551487IMG_0450.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352439,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444352315A551487IMG_0450.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444365315A539207IMG_0447.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352440,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444365315A539207IMG_0447.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444383315A458522IMG_0444.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352441,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444383315A458522IMG_0444.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444391315A684516IMG_0441.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352442,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444391315A684516IMG_0441.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444400315A14722IMG_0440.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352443,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444400315A14722IMG_0440.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444409315A387479IMG_0442.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352444,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444409315A387479IMG_0442.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444417315A545245IMG_0443.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352445,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444417315A545245IMG_0443.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444425315A419481IMG_0439.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352446,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444425315A419481IMG_0439.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444435315A44349IMG_0436.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352447,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444435315A44349IMG_0436.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444451315A654698IMG_0434.PNG",
+                                "videoThumbnail": "",
+                                "id": 3352448,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444451315A654698IMG_0434.PNG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444464315A276640IMG_0430.PNG",
+                                "videoThumbnail": "",
+                                "id": 3352449,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444464315A276640IMG_0430.PNG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444475315A311914IMG_0429.PNG",
+                                "videoThumbnail": "",
+                                "id": 3352450,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444475315A311914IMG_0429.PNG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444482315A201386IMG_0425.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352451,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444482315A201386IMG_0425.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444490315A566913IMG_0426.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352452,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444490315A566913IMG_0426.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444500315A375077IMG_0427.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352453,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444500315A375077IMG_0427.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444510315A891101IMG_0422.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352454,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444510315A891101IMG_0422.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444520315A939449IMG_0417.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352455,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444520315A939449IMG_0417.JPG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16092220444532315A410960IMG_0406.JPG",
+                                "videoThumbnail": "",
+                                "id": 3352456,
+                                "diaryId": 5205672,
+                                "mediaType": 1,
+                                "url": "16092220444532315A410960IMG_0406.JPG",
+                                "qiniuUrl": 1
+                            }
+                        ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 5128188,
+                        "content": "哈哈哈",
+                        "createDate": "20160918132415",
+                        "weekday": 1,
+                        "weather": 7,
+                        "address": "广东省深圳市福田区",
+                        "categoryId": 0,
+                        "isPassby": 0,
+                        "categoryName": "未分类",
+                        "colorHex": "",
+                        "MediaChildren": [ ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 5125927,
+                        "content": "仇恨，世界变得不美好！",
+                        "createDate": "20160918104334",
+                        "weekday": 1,
+                        "weather": 8,
+                        "address": "广东省深圳市福田区",
+                        "categoryId": 3,
+                        "isPassby": 0,
+                        "categoryName": "与男友的那些事",
+                        "colorHex": "C285FF",
+                        "MediaChildren": [
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16091810434228315A706682IMG_0448.JPG",
+                                "videoThumbnail": "",
+                                "id": 3296718,
+                                "diaryId": 5125927,
+                                "mediaType": 1,
+                                "url": "16091810434228315A706682IMG_0448.JPG",
+                                "qiniuUrl": 1
+                            }
+                        ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 5096675,
+                        "content": "哈哈哈",
+                        "createDate": "20160916215700",
+                        "weekday": 6,
+                        "weather": 9,
+                        "address": "广东省惠州市惠城区",
+                        "categoryId": 0,
+                        "isPassby": 0,
+                        "categoryName": "未分类",
+                        "colorHex": "",
+                        "MediaChildren": [
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16091621571035315A706889IMG_0457.PNG",
+                                "videoThumbnail": "",
+                                "id": 3276195,
+                                "diaryId": 5096675,
+                                "mediaType": 1,
+                                "url": "16091621571035315A706889IMG_0457.PNG",
+                                "qiniuUrl": 1
+                            }
+                        ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 4974799,
+                        "content": "呵呵哒嗯嗯",
+                        "createDate": "20160910083955",
+                        "weekday": 7,
+                        "weather": 1,
+                        "address": "广东省深圳市福田区",
+                        "categoryId": 0,
+                        "isPassby": 0,
+                        "categoryName": "未分类",
+                        "colorHex": "",
+                        "MediaChildren": [
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16091008401842315A857540IMG_0090.JPG",
+                                "videoThumbnail": "",
+                                "id": 3194115,
+                                "diaryId": 4974799,
+                                "mediaType": 1,
+                                "url": "16091008401842315A857540IMG_0090.JPG",
+                                "qiniuUrl": 1
+                            }
+                        ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 4974734,
+                        "content": "昨天的，今天的，明天的⋯⋯ 我会努力的",
+                        "createDate": "20160910083434",
+                        "weekday": 7,
+                        "weather": 1,
+                        "address": "广东省深圳市福田区",
+                        "categoryId": 1,
+                        "isPassby": 1,
+                        "categoryName": "日常记事",
+                        "colorHex": "00CCBB",
+                        "MediaChildren": [ ],
+                        "title": "",
+                        "fontType": "华文仿宋"
+                    },
+                    {
+                        "id": 4950865,
+                        "content": "我就是这么�",
+                        "createDate": "20160908224203",
+                        "weekday": 5,
+                        "weather": 0,
+                        "address": "广东省深圳市南山区",
+                        "categoryId": 2,
+                        "isPassby": 0,
+                        "categoryName": "记帐",
+                        "colorHex": "4AD453",
+                        "MediaChildren": [
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16090822425414315A74274IMG_0430.PNG",
+                                "videoThumbnail": "",
+                                "id": 3177570,
+                                "diaryId": 4950865,
+                                "mediaType": 1,
+                                "url": "16090822425414315A74274IMG_0430.PNG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16090822425420315A95688IMG_0429.PNG",
+                                "videoThumbnail": "",
+                                "id": 3177571,
+                                "diaryId": 4950865,
+                                "mediaType": 1,
+                                "url": "16090822425420315A95688IMG_0429.PNG",
+                                "qiniuUrl": 1
+                            }
+                        ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 4908145,
+                        "content": "数学老师写下一句话，“我爱你”，要求改成逆命题。我们都说“你不爱我”“不是的”老师说。他先把它变成了这种形式，“如果有一个人是我，那么这个人爱你。”老师接着开始改逆否命题了。最后一刻，他停笔的瞬间，教室里很安静。“如果有一个人不爱你，那么这个人，不是我”",
+                        "createDate": "20160906192442",
+                        "weekday": 3,
+                        "weather": 0,
+                        "address": "广东省深圳市南山区",
+                        "categoryId": 1,
+                        "isPassby": 0,
+                        "categoryName": "日常记事",
+                        "colorHex": "00CCBB",
+                        "MediaChildren": [ ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 4864036,
+                        "content": "巨幅",
+                        "createDate": "20160904103700",
+                        "weekday": 1,
+                        "weather": 0,
+                        "address": "广东省深圳市南山区",
+                        "categoryId": 0,
+                        "isPassby": 0,
+                        "categoryName": "未分类",
+                        "colorHex": "",
+                        "MediaChildren": [ ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 4701835,
+                        "content": "香港代购",
+                        "createDate": "20160826000501",
+                        "weekday": 6,
+                        "weather": 0,
+                        "address": "广东省深圳市南山区",
+                        "categoryId": 4,
+                        "isPassby": 0,
+                        "categoryName": "旅游计划",
+                        "colorHex": "90B44B",
+                        "MediaChildren": [ ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 4701681,
+                        "content": "我要说粗话",
+                        "createDate": "20160825235825",
+                        "weekday": 5,
+                        "weather": 0,
+                        "address": "广东省深圳市南山区",
+                        "categoryId": 0,
+                        "isPassby": 0,
+                        "categoryName": "未分类",
+                        "colorHex": "",
+                        "MediaChildren": [ ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 4701332,
+                        "content": "你妈很好",
+                        "createDate": "20160825234428",
+                        "weekday": 5,
+                        "weather": 0,
+                        "address": "广东省深圳市南山区",
+                        "categoryId": 0,
+                        "isPassby": 0,
+                        "categoryName": "未分类",
+                        "colorHex": "",
+                        "MediaChildren": [ ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 4297026,
+                        "content": "测试星期几",
+                        "createDate": "20160731200654",
+                        "weekday": 5,
+                        "weather": 0,
+                        "address": "中国广东省广州市天河区岑村红花岗上街",
+                        "categoryId": 0,
+                        "isPassby": 0,
+                        "categoryName": "未分类",
+                        "colorHex": "",
+                        "MediaChildren": [ ],
+                        "title": "",
+                        "fontType": ""
+                    },
+                    {
+                        "id": 6502802,
+                        "content": "我常常想，那些光芒万丈的人出现在我们生命里然后消失有什么意义，后来我明白，喜欢一个光芒万丈的人一点都不可怕，不管遥远不遥远， 遇到能让你付出的事物或者人，都是一种运气。能遇到就该珍惜，在等待的同时，把那些想留下的品质都留下，把自己变成一个值得等待的人，就不会辜负这段相遇。”",
+                        "createDate": "20160727234531",
+                        "weekday": 4,
+                        "weather": 0,
+                        "address": "四川省德阳市旌阳区",
+                        "categoryId": 1,
+                        "isPassby": 0,
+                        "categoryName": "日常记事",
+                        "colorHex": "00CCBB",
+                        "MediaChildren": [ ],
+                        "title": "",
+                        "fontType": ""
+                    }
+                ]
+            }
+        },
+
+        {
+            "url": "/WuJi/GetEditDiary",
+            "desc": "修改某条日记",
+            "mock": true,
+            "res": {
+                "code": 200,
+                "msg": "查询成功",
+                "data":{
+                        "id": 5754982,
+                        "content": "这也是测试",
+                        "createDate": "20161029153409",
+                        "weekday": 7,
+                        "weather": 1,
+                        "address": "广东省深圳市南山区",
+                        "categoryId": 1,
+                        "isPassby": 1,
+                        "categoryName": "日常记事",
+                        "colorHex": "00CCBB",
+                        "MediaChildren": [
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16111716212141315A595543IMG_0567.PNG",
+                                "videoThumbnail": "",
+                                "id": 3945804,
+                                "diaryId": 5754982,
+                                "mediaType": 1,
+                                "url": "16111716212141315A595543IMG_0567.PNG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://media.xiejianji.com/16111716242391315A840695IMG_0523.PNG",
+                                "videoThumbnail": "",
+                                "id": 3945822,
+                                "diaryId": 5754982,
+                                "mediaType": 1,
+                                "url": "16111716242391315A840695IMG_0523.PNG",
+                                "qiniuUrl": 1
+                            }
+                        ],
+                        "title": "",
+                        "fontType": "",
+                        "fontsize": 18,
+                        "fontcolor": "4AD453"
+                    }
+                }
+        },
+
+        {
+            "url": "/WuJi/GetDiaryDetail",
+            "desc": "查看某条日记",
+            "mock": true,
+            "res": {
+                "code": 200,
+                "msg": "查询成功",
+                "data":{
+                        "id": 5754982,
+                        "content": "近来，有丝丝倦怠，铺天盖地的不肯离开，执笔，画圈，一闪而过的念，总是一而再，再而三的被搁浅，那些不情不愿的小情绪，占领了太多的空间，庸庸碌碌中，任光阴无情的在指缝中删删减减。早春，微寒缠绵，风，温和的吹醒，春的语言，柳丝抽芽，百花争艳，桃花灼灼的世界是温婉多情的烟花三月。柳岸花堤，亭水榭间，行吟山水，一梦千年。“水光潋滟晴方好，山色空蒙雨亦奇。欲把西湖比西子，淡妆浓抹总相宜”。爱上一座城，爱它的雅韵别致，温润纤细，痴恋一场雨，恋它的清新淡雅，水墨成烟。空蒙蒙的烟雨，摇曳着柳枝，泪水涟涟。古往今来，江南春梦，被悠悠岁华，洗濯了千年。忧怨的姑娘，青石板的小巷，一柄多情的油纸伞，清晰而玲珑的在一湖瘦水中沉淀。一朵时光，反复的被书写，写一程山水，春意翩翩，写柴米油盐，独自清闲，写万千的情意，羽化成美丽的语言，写小小的心绪，深深浅浅，心中，始终有一处温暖，如雨后的晨露，洋溢在眉眼，不增不减。佛说：“欲行净土，当净其心，随其心净，即佛土净。圣人求心不求佛，愚人求佛不求心；智者调心不调身，愚者调身不调心。”拥一颗禅心，平和宁静，不攀比，不争名夺利，在温和的光阴中，恪守自己，品人生百味，世事洞明。我心中对于圆满，或许不是鲜衣怒马，也或许不是海棠佳话，而是，一段清简的况味，禅风流韵，与喜欢的人，素心相对，你护我冷暖，我慰你心安，在眼眸顾盼的瞬间，捕捉着岁月最美的箴言，一人一心，一花一叶。如水的良辰，闲云悠悠，薄薄的阳光，还在云上，怀惴着晴朗，与风月对望，迎风中伫立，将繁华与落寞，细细丈量，佛说；万物皆有因果，世事变幻无常，命运，向你掩盖了一扇门，定会为你打开另一窗，只要你用心承载着阳光，便是明媚不可阻挡的方向。",
+                        "createDate": "20161029153409",
+                        "weekday": 7,
+                        "weather": 1,
+                        "address": "广东省深圳市南山区",
+                        "categoryId": 1,
+                        "isPassby": 1,
+                        "categoryName": "日常记事",
+                        "colorHex": "00CCBB",
+                        "MediaChildren": [
+                            {
+                                "Qnurl": "http://www.w3school.com.cn/i/movie.ogg",
+                                "videoThumbnail": "http://video.xiejianji.com/45e5f2a723d59d2c18e7d45a9bae751f.mp4?vframe/jpg/offset/1/w/480/h/480&e=1500541793&token=vl82-w1ZItdvucyb0gejjhplWjZSkxHh3nwdrC29:-bXqT7s013rSMq9mUtua0kHFzDo=",
+                                "id": 3611121,
+                                "diaryId": 5559423,
+                                "mediaType": 2,
+                                "url": "dca6b50a7456dd0602e7b3803f392e88.mp4",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://img4.ph.126.net/lxVFFix1f-a9g4epCoOIkg==/1051309038031652744.jpg",
+                                "videoThumbnail": "",
+                                "id": 3945804,
+                                "diaryId": 5754982,
+                                "mediaType": 1,
+                                "url": "16111716212141315A595543IMG_0567.PNG",
+                                "qiniuUrl": 1
+                            },
+                            {
+                                "Qnurl": "http://img1.ph.126.net/ZBxeEko-K-QkzoynFmkuVw==/1892356268526266671.jpg",
+                                "videoThumbnail": "",
+                                "id": 3945822,
+                                "diaryId": 5754982,
+                                "mediaType": 1,
+                                "url": "16111716242391315A840695IMG_0523.PNG",
+                                "qiniuUrl": 1
+                            }
+                        ],
+                        "title": "",
+                        "fontType": "",
+                        "fontsize": 14,
+                        "fontcolor": "333"
+                    }
+                }
+        },
+      {
+        "url": "/WuJi/bjlist",
+        "desc": "查看某条日记",
+        "mock": true,
+        "res": [{"title":1,"url":"//jd.com","desc":"SH","imgurl":"http://img20.360buyimg.com/pop/s498x488_jfs/t4495/165/2977017334/42091/8354c451/58f4bc24N0eb5f036.jpg!cc_498x488!q70"}]
+      }
+
+    ]
+}
+
