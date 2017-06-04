@@ -82,7 +82,7 @@
             <section class="box box-style1">
               <span class="icon featured-icon icon-comments-alt"></span>
               <h3>大前端</h3>
-              <a href="">{{bjlist[0].title}}</a>
+              <a href=""></a>
             </section>
           </div>
           <div class="4u">
@@ -190,7 +190,7 @@
   export default {
     data(){
       return{
-        bjlist:[]
+//        bjlist:[]
 //        title: '',   //标题
 //        url: '', //链接
 //        desc: "",     //描述
